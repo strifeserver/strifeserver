@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean-Louis S. Mendoza</h1>
 <h3 align="center">Innovative, task-driven Web Developer</h3>
 
-- 🔭 I’m currently working on **RAN Online Source**
-
 - 🌱 I’m currently learning **React and C++**
-
-- 🤝 I’m looking for help with **RAN Online Source**
 
 - 💬 Ask me about **Laravel and PHP**
 
