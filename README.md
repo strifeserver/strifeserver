@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/strifeserver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="strifeserver" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeaniuskeik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeaniuskeik/" height="30" width="40" /></a>
 <a href="https://instagram.com/strifeserver42/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="strifeserver42/" height="30" width="40" /></a>
 <a href="https://discord.gg/StrifeServer#8925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="StrifeServer#8925" height="30" width="40" /></a>
