@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jean-Louis S. Mendoza</h1>
 <h3 align="center">Innovative, task-driven Web Developer</h3>
 
-- 🌱 I’m currently learning **React and C++**
-
-- 💬 Ask me about **Laravel and PHP**
-
-- 📫 How to reach me **mendozajeanlouis690@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
